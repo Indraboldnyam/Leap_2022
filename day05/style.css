@@ -1,0 +1,15 @@
+.hamburger-icon{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+.hamburger-icon:hover{
+    color: orange;
+
+}
+.dropdown-content{
+    display:none;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
